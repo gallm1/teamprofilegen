@@ -3,10 +3,13 @@
 This project creates a team profile, by role, using node and npm package inquirer.
 
 Running node index and series of inquirer questions
+
 ![image](https://github.com/gallm1/teamprofilegen/blob/main/assets/node_index_js.png)
 
 Jest Test Results
+
 ![image](https://github.com/gallm1/teamprofilegen/blob/main/assets/jest_test.png)
+
 
 [Link to Recording](https://drive.google.com/file/d/1YoEqeUtLCjNHcVC7lRnorpdhMPFoCB-2/view)
 
